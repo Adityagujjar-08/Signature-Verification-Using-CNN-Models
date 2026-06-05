@@ -1,0 +1,7 @@
+model,Predicted Genuine,Predicted Forged
+Custom_CNN,216,0
+Custom_CNN,17,199
+MobileNetV2_Transfer,216,0
+MobileNetV2_Transfer,85,131
+ResNet50_Transfer,213,3
+ResNet50_Transfer,7,209
