@@ -1,0 +1,7 @@
+model,Predicted Genuine,Predicted Forged
+Custom_CNN,82,134
+Custom_CNN,3,213
+MobileNetV2_FineTuned,166,50
+MobileNetV2_FineTuned,62,154
+ResNet50_FineTuned,216,0
+ResNet50_FineTuned,102,114

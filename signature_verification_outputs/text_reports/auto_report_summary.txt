@@ -1,0 +1,29 @@
+
+CNN-Based Offline Signature Verification for Document Image Authentication
+=======================================================================
+
+Dataset root used:
+/kaggle/input/datasets/matteocarnebella/cedar-signatures
+
+Split method:
+writer_independent_group_split
+
+Images:
+2640 total images
+1320 genuine images
+1320 forged images
+
+Final models evaluated:
+Custom_CNN, MobileNetV2_FineTuned, ResNet50_FineTuned
+
+Best F1-score model:
+Custom_CNN
+
+Generated outputs:
+- CSV result tables in csv/
+- PDF figures in figures_pdf/
+- Model summaries in text_reports/
+- ZIP archive in /kaggle/working/
+
+Important:
+SHAP can be slow on Kaggle. If SHAP fails because of runtime/package issues, the notebook saves a PDF explaining the error and records the status in shap_generation_status.csv.

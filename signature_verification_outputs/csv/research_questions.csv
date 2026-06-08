@@ -1,0 +1,8 @@
+RQ,Question
+RQ1,How accurately does a custom CNN classify offline signature images as genuine or forged using the CEDAR signature dataset?
+RQ2,Does transfer learning with MobileNetV2 and ResNet50 improve signature verification performance compared with the custom CNN?
+RQ3,Does fine-tuning the pretrained MobileNetV2 and ResNet50 models improve performance compared with using frozen transfer learning models only?
+RQ4,"Which model provides the best trade-off between classification performance, training time, and number of trainable parameters?"
+RQ5,"Which signature regions do the CNN models focus on when making correct genuine and forged predictions, according to Grad-CAM?"
+RQ6,What do SHAP explanations reveal about the positive and negative visual evidence used by each model for signature verification?
+RQ7,Can Grad-CAM and SHAP help explain why some genuine or forged signature images are misclassified?
