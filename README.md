@@ -97,10 +97,6 @@ signature_verification_outputs/
 │   ├── figure_7_fixed_shap_cam_examples_Custom_CNN.pdf (+ .png)
 │   ├── figure_8_final_model_comparison.pdf
 │   └── figure_9_roc_curves.pdf
-├── models/
-│   ├── Custom_CNN.keras
-│   ├── MobileNetV2_FineTuned.keras
-│   └── ResNet50_FineTuned.keras
 └── text_reports/
     ├── <Model>_summary.txt
     └── auto_report_summary.txt
