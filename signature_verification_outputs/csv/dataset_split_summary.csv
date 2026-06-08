@@ -1,4 +1,0 @@
-split,images,genuine,forged,writers,split_method
-train,1824,912,912,38,writer_independent_group_split
-validation,384,192,192,8,writer_independent_group_split
-test,432,216,216,9,writer_independent_group_split

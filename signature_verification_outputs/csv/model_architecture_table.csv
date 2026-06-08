@@ -1,4 +1,0 @@
-model,input_size,output_layer,loss,optimizer,augmentation,total_parameters,trainable_parameters,non_trainable_parameters
-Custom_CNN,224x224x3,"Dense(1, sigmoid)",binary_crossentropy,Adam,"rotation, translation, zoom, contrast",422337,421889,448
-MobileNetV2_FineTuned,224x224x3,"Dense(1, sigmoid)",binary_crossentropy,Adam,"rotation, translation, zoom, contrast",2422081,1674817,747264
-ResNet50_FineTuned,224x224x3,"Dense(1, sigmoid)",binary_crossentropy,Adam,"rotation, translation, zoom, contrast",24112513,9443841,14668672

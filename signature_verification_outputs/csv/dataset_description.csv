@@ -1,2 +1,0 @@
-dataset_name,task,classification_type,classes,total_images,genuine_images,forged_images,unique_writer_ids_detected,model_input_size,dataset_root_used
-CEDAR Signatures,Offline signature verification,Binary image classification,"genuine, forged",2640,1320,1320,55,224x224x3,/kaggle/input/datasets/matteocarnebella/cedar-signatures

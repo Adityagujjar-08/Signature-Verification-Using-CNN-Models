@@ -1,2 +1,0 @@
-model,shap_cam_status,pdf_path,png_path
-Custom_CNN,generated,/kaggle/working/signature_verification_outputs/figures_pdf/figure_7_fixed_shap_cam_examples_Custom_CNN.pdf,/kaggle/working/signature_verification_outputs/figures_pdf/figure_7_fixed_shap_cam_examples_Custom_CNN.png
